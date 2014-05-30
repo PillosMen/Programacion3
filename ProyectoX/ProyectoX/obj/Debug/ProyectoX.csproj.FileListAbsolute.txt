@@ -1,0 +1,10 @@
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\ProyectoX\ProyectoX\bin\Debug\ProyectoX.exe
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\ProyectoX\ProyectoX\bin\Debug\ProyectoX.pdb
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.Acceso.resources
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.MainForm.resources
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.csproj.GenerateResource.Cache
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.exe
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.pdb
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\ProyectoX\ProyectoX\obj\Debug\ProyectoX.Nuevo.resources
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\ProyectoX\ProyectoX\bin\Debug\mysql.data.dll
